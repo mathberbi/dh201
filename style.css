@@ -1,0 +1,51 @@
+body {
+background-color: Gainsboro;
+}
+
+.header {
+color:PaleVioletRed;
+font-size: 30pt;
+font-weight: bold;
+font-family:helvetica;
+background-color: white;
+border: 5px solid grey;
+text-align: center;
+padding: 50px;
+}
+
+img {
+border: 5px dotted white;
+max-width:100%;
+height: auto;
+}
+
+
+p {
+color: #33334d;
+}
+
+#highlight {
+color: PaleVioletRed;
+}
+
+.top {
+background-color: white;
+}
+
+.content {
+background-color: PapayaWhip;
+}
+
+h1 {
+color: #66b3ff;
+background-color: white;
+border: 5px solid grey;
+text-align: right;
+}
+
+h2 {
+  color: #66b3ff;
+  background-color: white;
+  border: 5px solid grey;
+  text-align: left;
+}
